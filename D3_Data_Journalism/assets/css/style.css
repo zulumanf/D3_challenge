@@ -1,0 +1,30 @@
+/* Standard CSS Styling Sheet */
+.iframeContainer {
+  padding: 25px;
+  border: 1x solid #e4dddd;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  padding-bottom: 80px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 12px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: #e4dddd;
+}
+
+#footer p {
+  margin: 0;
+  font-size: 16px;
+}
